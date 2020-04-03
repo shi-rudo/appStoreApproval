@@ -15,3 +15,5 @@ This is a curated list of questions that can be included with an App to speed up
 * If no, does a company or organization pay for the content or services? 
 * Where do they pay, and what's the payment method?
 * If users create an account to use your app, are there fees involved?
+
+Reminder: Don't forget to include a demo account.
