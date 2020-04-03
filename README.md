@@ -17,3 +17,7 @@ This is a curated list of questions that can be included with an App to speed up
 * If users create an account to use your app, are there fees involved?
 
 Reminder: Don't forget to include a demo account.
+
+## Guideline 3.1 Payments 
+### 3.1.1 In-App Purchase:
+* Include a screen recording showing how the in-app-purchase is going to be executed by the user.
