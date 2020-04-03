@@ -1,5 +1,5 @@
-# appStoreApproval
-This is a curated list of questions that can be included with an app to speed up Apple AppStore approval.
+# Supplemental Questions for App Store Review Guidelines
+This is a curated list of questions that can be included with an App to speed up Apple AppStore approval.
 
 ## Guideline 2.1 - Information Needed
 * Who are the intended end users of your app?
